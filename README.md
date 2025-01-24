@@ -1,4 +1,4 @@
-"""# Pic-to-ASCII Converter
+## Pic-to-ASCII Converter
 
 The **Pic-to-ASCII Converter** is a Python application that transforms images into visually stunning ASCII art. It supports both grayscale and colored ASCII output, enabling creative and unique text-based representations of any image. The tool provides a Command-Line Interface (CLI) and a user-friendly Streamlit web app for seamless usage.
 
